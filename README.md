@@ -1,7 +1,6 @@
 ## 技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cinoliu&show_icons=true">
 
-Python
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -17,7 +16,7 @@ Python
 https://cinoliu.github.io/
 
 
-https://www.cnblogs.com/v5captain/
+http://www.jianshu.com/u/cd9914d683ec
 
 <!-- 访客 -->
 <p align="center">
